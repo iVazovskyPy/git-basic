@@ -1,3 +1,10 @@
 This text was created
 in main branch, below will be text
+<<<<<<< HEAD
 that created in dev branch
+=======
+that created in dev branch
+
+And this text was created in dev branch
+We did to merge both branches
+>>>>>>> dev
