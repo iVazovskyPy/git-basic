@@ -1,0 +1,6 @@
+This text was created
+in main branch, below will be text
+that created in dev branch
+
+And this text was created in dev branch
+We did to merge both branches
